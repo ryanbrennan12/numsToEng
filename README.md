@@ -1,5 +1,5 @@
 
- [![NPM Version][npm-image]][npm-url]
+ [![npm (scoped)](https://img.shields.io/badge/npm%20-v1.0.0-blue.svg)](https://github.com/ryanbrennan12)
 
 ## Installation
 
