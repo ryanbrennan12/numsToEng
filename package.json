@@ -1,9 +1,9 @@
 {
-  "name": "numsToEng",
-  "version": "1.0.1",
+  "name": "nums2eng",
+  "version": "1.0.3",
   "description": "Converts numbers into English words. Hooray!",
   "license": "MIT",
-  "repository": "ryanbrennan12/nums",
+  "repository": "ryanbrennan12/numsToEng",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

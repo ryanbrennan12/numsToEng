@@ -1,5 +1,5 @@
 
- [![npm (scoped)](https://img.shields.io/badge/npm%20-v1.0.0-blue.svg)](https://github.com/ryanbrennan12)
+ [![npm (scoped)](https://img.shields.io/badge/npm%20-v1.0.3-blue.svg)](https://github.com/ryanbrennan12)
 
 ## Installation
 
@@ -13,13 +13,13 @@ Installation is done using the
 [`npm install` command](https://docs.npmjs.com/getting-started/installing-npm-packages-locally):
 
 ```bash
-$ npm install numstoeng
+$ npm install nums2eng
 ```
 
 ## Usage
 
 ```js
-const convert = require('numsToEng');
+const convert = require('nums2eng');
 
 convert(4444)
 //=> four thousand four hundred forty four
